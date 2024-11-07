@@ -1,3 +1,3 @@
 # Demo
 
-this is Lydia's repo.
+this is Lydia's first repo.
